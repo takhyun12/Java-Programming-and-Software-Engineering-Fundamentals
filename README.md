@@ -6,7 +6,7 @@
 
 This repository is created to keep track of [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming?utomation) provided by Coursera. This program is developed by Duke university and designed to teach how to program with Java and how to use Java to automate common system administration tasks.
 
-![Certification](https://user-images.githubusercontent.com/41291493/109380788-49d8fd00-791a-11eb-9d91-97a22ca96c62.png)
+![Certificate](https://user-images.githubusercontent.com/41291493/110229429-a2c51880-7f4c-11eb-957c-44c7f7087e36.png)
 
 ---
 

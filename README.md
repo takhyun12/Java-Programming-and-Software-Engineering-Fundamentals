@@ -12,12 +12,12 @@ This repository is created to keep track of [Java Programming and Software Engin
 
 ## Table of Contents
 
-1. [Crash Course On Python](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Crash%20Course%20on%20Python)
-2. [Using Python to Interact with the Operating System](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
-3. [Introduction to Git and GitHub](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Introduction%20to%20Git%20and%20GitHub)
-4. [Troubleshooting and Debugging Techniques](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Troubleshooting%20and%20Debugging%20Techniques)
-5. [Configuration Management and the Cloud](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Configuration%20Management%20and%20the%20Cloud)
-6. [Automating Real-World Tasks with Python](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Automating%20Real-World%20Tasks%20with%20Python)
+1. [Programming Foundations with JavaScript, HTML and CSS](https://github.com/takhyun12/Java-Programming-and-Software-Engineering-Fundamentals/tree/main/Programming%20Foundations%20with%20JavaScript%20HTML%20CSS)
+2. [Java Programming: Solving Problems with Software](https://github.com/takhyun12/Java-Programming-and-Software-Engineering-Fundamentals/tree/main/Java%20Programming%20Solving%20Problems%20with%20Software)
+3. [Java Programming: Arrays, Lists, and Structured Data](https://github.com/takhyun12/Java-Programming-and-Software-Engineering-Fundamentals/tree/main/Java%20Programming%20Arrays%20Lists%20and%20Structured%20Data)
+4. [Java Programming: Principles of Software Design](https://github.com/takhyun12/Java-Programming-and-Software-Engineering-Fundamentals/tree/main/Java%20Programming%20Principles%20of%20Software%20Design)
+5. [Java Programming: Build a Recommendation System](https://github.com/takhyun12/Java-Programming-and-Software-Engineering-Fundamentals/tree/main/Java%20Programming%20Build%20a%20Recommendation%20System)
+
 ---
 
 ## Credit

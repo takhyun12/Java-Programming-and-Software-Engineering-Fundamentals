@@ -1,0 +1,75 @@
+1. Modify this method to do exactly 70 passes and then modify testSort to run this method on the file earthQuakeDataDec6sample2.atom.
+
+-100000.00
+
+1-2 Modify this method to do exactly 70 passes and then modify testSort to run this method on the file earthQuakeDataDec6sample2.atom.
+
+-20021.00
+
+---
+
+2. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample1.atom. 
+
+1301
+
+---
+
+3. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample1.atom. 
+
+1241
+
+3-2. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample2.atom.
+
+1255
+
+---
+
+4. What does this ArrayList look like after two passes of selection sort that sorts the elements in numeric order from smallest to largest?
+
+1  2  5  9  8  4
+
+---
+
+5. What does this ArrayList look like after two passes of bubble sort that sorts the elements in numeric order from smallest to largest?
+
+2 4 5 1 8 9
+
+---
+
+6. Modify this method to print out the QuakeEntry in position 600 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample1.atom. 
+
+-4870.00
+
+6-2. Modify this method to print out the QuakeEntry in position 600 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample2.atom. 
+
+-53600.00
+
+---
+
+7. Modify the sortByTitleAndDepth method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample1.atom. 
+
+-1580.00
+
+7-2. Modify the sortByTitleAndDepth method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample2.atom. 
+
+-7630.00
+
+---
+
+8. Modify the sortByLastWordInTitleThenByMagnitude method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample1.atom. 
+
+-5060.00
+
+
+8-2. Modify the sortByLastWordInTitleThenByMagnitude method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. 
+Run this method on the file earthQuakeDataWeekDec6sample2.atom. 
+
+-1490.00
+
+---
+

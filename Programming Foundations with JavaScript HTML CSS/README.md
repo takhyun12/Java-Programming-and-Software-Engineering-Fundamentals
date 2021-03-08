@@ -6,7 +6,7 @@ Certificate of the course that is offered at Coursera and Duke Universitry.
 #### Status: Completed
 
 This repository is created to keep track of [Programming Foundations with JavaScript, HTML, CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming) provided by Coursera.
-This program is developed by Duke Universitry and designed to teach how to program with Java, Javascript, CSS. 
+This educational program is developed by Duke Universitry and designed to teach how to program with Java, Javascript, CSS. 
 
 ![Certification](https://user-images.githubusercontent.com/41291493/109484522-dffc5700-7ac3-11eb-8879-dbc81d29f38c.png)
 

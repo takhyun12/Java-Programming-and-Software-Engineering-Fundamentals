@@ -1,6 +1,6 @@
 # Java Programming Principles of Software Design
 
-Certificate of the course that is offered at Coursera, by Duke Universitry.
+Certificate of the course that is offered at Coursera and Duke Universitry.
 
 #### Author: Tackhyun Jung
 
